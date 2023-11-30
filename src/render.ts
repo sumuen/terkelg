@@ -2,7 +2,7 @@ import type { Year } from './worker';
 
 const BP_MEDIUM = 550;
 const BP_LARGE = 700;
-const BODY_COPY = `I'm Terkel. A Brooklyn-based internet enthusiast, creative technologist and maker of digital ephemera.`;
+const BODY_COPY = `I'm Sumuen, and I started programming at the age of 20. I am currently learning Node.js. Welcome to my GitHub profile!`;
 
 interface Props {
   width?: number;
